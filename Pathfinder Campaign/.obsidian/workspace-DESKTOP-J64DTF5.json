@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "20931a3e54c4c0ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "10fc520a09dadd56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8cd4aa8ef605df5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c9c0d804bafba854",
+    "type": "split",
+    "children": [
+      {
+        "id": "20a140fa77fc4ac7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f66c16df5be4c62",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3d4319f7a1a1757f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "console",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "90e4007421f3eb1c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "f6f3aac776cb64dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb88410743923f54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "beff088f3e0bf293",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Setting Notes/NPC/“Ashen” Corin Vale.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for “Ashen” Corin Vale"
+            }
+          },
+          {
+            "id": "b79416c06cf0ba19",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Setting Notes/NPC/“Ashen” Corin Vale.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from “Ashen” Corin Vale"
+            }
+          },
+          {
+            "id": "5286ddd963e03d03",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "be41da9343eb6685",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Vessels/The Ashen Blade.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of The Ashen Blade"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "a8cd4aa8ef605df5",
+  "lastOpenFiles": [
+    "Session Notes/Arch 1/Chapter 1/2. The Lower Depths.md",
+    "Session Notes/Arch 1/Chapter 1/1. Welcome to Eldermount.md",
+    "Setting Notes/Point of Interest/Skadia/Eldermount/Dragonclaw Tavern.md",
+    "Setting Notes/Factions/Eldermount's Alchemist Guild.md",
+    "Setting Notes/NPC/Uriel Stormwind.md",
+    "Campaign Dashboard.md",
+    "Character Notes.md",
+    "Setting Notes/Factions/The Ashen Blade.md",
+    "Setting Notes/Factions/Project Pheonix.md",
+    "Setting Notes/Factions/House Malakai.md",
+    "Setting Notes/Beastiary/Infoblock/Infected.md",
+    "Setting Notes/Beastiary/Infoblock/The Warforger.md",
+    "Setting Notes/Beastiary/Infoblock/The Vengence.md",
+    "Templates/Session Template.md",
+    "!Infected Statblock.png.md",
+    "Other/Character Info/M.I.D.A - Ruby.md",
+    "Other/Character Info/Ash - Elliot.md",
+    "Other/Character Info/Urist - Adam.md",
+    "Setting Notes/Locations/Skadia/Eldermount.md",
+    "Setting Notes/NPC/Magister Selera Vayne.md",
+    "Setting Notes/NPC/Captain Jorek Valeen.md",
+    "Setting Notes/NPC/Corin Vale.md",
+    "Setting Notes/NPC/Taren Dusk.md",
+    "Session Notes/Arch 1/Chapter 1/Welcome to Eldermount (conflict 2026-04-02-15-30-13).md",
+    "Session Notes/Arch 1/Chapter 1/h.md",
+    "Setting Notes/Beastiary/Statblocks/Infected Statblock.png",
+    "Session Notes/Overarching Plot Ideas.md",
+    "Void Zombie Statblocj.png",
+    "Map.canvas",
+    "Setting Notes/Beastiary/Statblocks",
+    "Pasted image 20260402142853.png",
+    "Other/Untitled",
+    "Other/Character Info",
+    "Other",
+    "Setting Notes/Point of Interest/null",
+    "Setting Notes/Images/Creatures/The Warforger.png",
+    "Setting Notes/Locations/Ibbirus/Places",
+    "Setting Notes/Images/Creatures",
+    "Setting Notes/Beastiary/Infoblock",
+    "Setting Notes/NPC/Pantheon of Discord",
+    "Session Notes/Test/Test 2",
+    "Pasted image 20260111045137.png",
+    "Setting Notes/Images/NPCs/Ashen - Corin Vale.png",
+    "Setting Notes/Images/Locations/Eldermount City Map.png",
+    "Setting Notes/Images/Vessels/The Ashen Blade.png",
+    "Setting Notes/Images/Groups/House Malakai Sigil.png",
+    "Setting Notes/Images/Groups/Eldermount City Guard Seal.png"
+  ]
+}

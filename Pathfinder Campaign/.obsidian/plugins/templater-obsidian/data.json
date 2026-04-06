@@ -1,0 +1,70 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": true,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "Setting Notes/Locations",
+      "template": "Templates/Location Template.md"
+    },
+    {
+      "folder": "Setting Notes/NPC",
+      "template": "Templates/NPC Template.md"
+    },
+    {
+      "folder": "Setting Notes/Beastiary/Statblock",
+      "template": "Templates/Creature Template.md"
+    },
+    {
+      "folder": "Session Notes",
+      "template": "Templates/Session Template.md"
+    },
+    {
+      "folder": "Setting Notes/Factions",
+      "template": "Templates/Faction Template.md"
+    },
+    {
+      "folder": "Setting Notes/Point of Interest",
+      "template": "Templates/PoI Template.md"
+    },
+    {
+      "folder": "Setting Notes/Beastiary/Infoblock",
+      "template": "Templates/Infoblock Template.md"
+    },
+    {
+      "folder": "Setting Notes/Items",
+      "template": "Templates/Item Template.md"
+    },
+    {
+      "folder": "Setting Notes/Events",
+      "template": "Templates/Event Template.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": true,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "intellisense_render": 1
+}

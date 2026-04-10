@@ -25,14 +25,12 @@
             "id": "a356bc8cdf3b95e9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "json",
               "state": {
-                "file": "Setting Notes/Events/The Great War.md",
-                "mode": "source",
-                "source": false
+                "file": "JSON Data/CaelVaren1775435726.json"
               },
               "icon": "lucide-file",
-              "title": "The Great War"
+              "title": "CaelVaren1775435726"
             }
           },
           {
@@ -202,10 +200,18 @@
   "active": "a356bc8cdf3b95e9",
   "lastOpenFiles": [
     "JSON Data/Infected1775136986.json",
+    "Other/Character Info/Urist - Adam.md",
+    "Session Notes/Arch 1/Chapter 1/2. The Lower Depths.md",
+    "Session Notes/Arch 1/Chapter 1/1. Welcome to Eldermount.md",
+    "Setting Notes/NPC/Uriel Stormwind.md",
+    "Setting Notes/Items/Black Bronze.md",
+    "Setting Notes/Items/Arcane Core.md",
+    "Setting Notes/Beastiary/Statblocks/Infected Statblock.png",
+    "Campaign Dashboard.md",
+    "Setting Notes/Events/The Great War.md",
     "JSON Data/CaelVaren1775435726.json",
     "JSON Data",
     "Setting Notes/Point of Interest/Other/The Black Archives.md",
-    "Setting Notes/Events/The Great War.md",
     "Setting Notes/Factions/The Arcanum.md",
     "Setting Notes/NPC/Malakai.md",
     "Templates/Event Template.md",
@@ -216,22 +222,14 @@
     "Templates/Character Template.md",
     "Templates/Faction Template.md",
     "Setting Notes/NPC/Cael Varen.md",
-    "Session Notes/Arch 1/Chapter 1/2. The Lower Depths.md",
     "Setting Notes/NPC/Ull'Dir.md",
     "Setting Notes/Factions/Eldermount's Alchemist Guild.md",
     "Setting Notes/Beastiary/Infoblock/Infected.md",
     "Setting Notes/Beastiary/Infoblock/The Vengence.md",
     "Setting Notes/Beastiary/Infoblock/The Warforger.md",
-    "Setting Notes/Beastiary/Statblocks/Infected Statblock.png",
-    "Setting Notes/NPC/Uriel Stormwind.md",
     "Setting Notes/Images/Creatures/The Warforger.png",
     "Setting Notes/Factions/The Ashen Blade.md",
     "Setting Notes/Factions/House Malakai.md",
-    "Session Notes/Overarching Plot Ideas.md",
-    "Setting Notes/Locations/Skadia/Eldermount.md",
-    "Setting Notes/Point of Interest/Skadia/Eldermount/Market Centre.md",
-    "Templates/Session Template.md",
-    "Setting Notes/NPC/Valestone Ulfric.md",
     "Void Zombie Statblocj.png",
     "Map.canvas",
     "Setting Notes/Beastiary/Statblocks",
@@ -241,7 +239,6 @@
     "Other",
     "Setting Notes/Point of Interest/null",
     "Setting Notes/Locations/Ibbirus/Places",
-    "Setting Notes/Images/Creatures",
     "Pasted image 20260111045137.png",
     "Setting Notes/Images/NPCs/Ashen - Corin Vale.png",
     "Setting Notes/Images/Locations/Eldermount City Map.png",

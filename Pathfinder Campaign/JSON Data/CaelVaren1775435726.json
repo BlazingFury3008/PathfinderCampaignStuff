@@ -1,1 +1,291 @@
-{"name":"Cael Varen","traits":"Caelithar, Duskwalker","tags":["caelithar"],"level":10,"specials":[{"id":"_2jbecqm9h1g","name":"Eye of the Beholder","traits":"Subtle, Divination","range":"","actions":"one","type":"general","description":"Requirements A creature must be within line of sight of Cael Varen. Cael's eyes flicker a golden hue, the target must succeed a DC 22 Will Save or gain Beheld 1 (The Creature only loses Beheld when they gain a long rest. The Creature that gave Beheld can cause the target to reroll any roll of their choosing, after which the Beheld condition goes down by one)"}],"morespells":[],"alignment":"n","size":"medium","type":"humanoid","adjust":0,"description":"","items":"","spellattack":{"value":"","benchmark":"moderate","note":""},"spelldc":{"value":"","benchmark":"moderate","note":""},"savenote":"","creature":"Duskwalker","speed":"40ft","imgurl":"","spelltype":"","focuspoints":0,"cantriplevel":"","ritualtype":"","rituals":"","spells":["","","","","","","","","","",""],"constant":"","minprof":{"value":"","benchmark":"moderate","note":""},"strength":{"value":"+5","benchmark":"moderate","note":"Forgeworn"},"dexterity":{"value":"+8","benchmark":"extreme","note":"Swift, Agile"},"constitution":{"value":"+5","benchmark":"moderate","note":""},"intelligence":{"value":"+8","benchmark":"extreme","note":""},"wisdom":{"value":"+5","benchmark":"moderate","note":""},"charisma":{"value":"+3","benchmark":"low","note":""},"perception":{"value":"+19","benchmark":"moderate","note":""},"acrobatics":{"value":"","benchmark":"moderate","note":""},"arcana":{"value":"","benchmark":"moderate","note":""},"athletics":{"value":"","benchmark":"moderate","note":""},"crafting":{"value":"+25","benchmark":"extreme","note":"Blacksmithing"},"deception":{"value":"","benchmark":"moderate","note":""},"diplomacy":{"value":"","benchmark":"moderate","note":""},"intimidation":{"value":"","benchmark":"moderate","note":""},"medicine":{"value":"","benchmark":"moderate","note":""},"nature":{"value":"","benchmark":"moderate","note":""},"occultism":{"value":"","benchmark":"moderate","note":""},"performance":{"value":"","benchmark":"moderate","note":""},"religion":{"value":"","benchmark":"moderate","note":""},"society":{"value":"","benchmark":"moderate","note":""},"stealth":{"value":"","benchmark":"moderate","note":""},"survival":{"value":"","benchmark":"moderate","note":""},"thievery":{"value":"","benchmark":"moderate","note":""},"lore":{"value":"","benchmark":"moderate","note":"","name":"lore"},"lorealt":{"value":"","benchmark":"moderate","note":"","name":"lore"},"ac":{"value":29,"benchmark":"moderate","note":""},"hp":{"value":"223","benchmark":"high","note":""},"fortitude":{"value":"+22","benchmark":"high","note":""},"reflex":{"value":"+19","benchmark":"moderate","note":""},"will":{"value":"+24","benchmark":"extreme","note":""},"resistance":{"value":"","benchmark":"moderate","note":""},"weakness":{"value":"","benchmark":"moderate","note":""},"immunity":{"value":"","benchmark":"moderate","note":""},"roadmap":"","info":"","strikes":[{"id":"_1kai3bidhz0","name":"sword","traits":"","attack":"+17","damage":"2d6+10 slashing","type":"Melee"},{"id":"_5va2mp0i33","name":"Deaths Door","traits":"","attack":"+25","damage":"2d12+20  piercing + 2d6 void","type":"Ranged"}]}
+{
+  "name": "Cael Varen",
+  "traits": "Unique, Duskwalker, Humanoid",
+  "tags": ["caelithar"],
+  "level": 10,
+  "specials": [
+    {
+      "id": "_eyeofthebeholder01",
+      "name": "Eye of the Beholder",
+      "traits": "Subtle, Divination, Occult, Mental",
+      "range": "60 feet",
+      "actions": "one",
+      "type": "offense",
+      "description": "Requirements A creature must be within line of sight of Cael Varen. Cael's eyes flicker a dim golden hue, and the target must attempt a DC 29 Will save. On a critical success, the creature is unaffected. On a success, the creature is unsettled and takes a -1 status penalty to its next d20 roll before the end of its next turn. On a failure, the creature gains Beheld 1. On a critical failure, the creature gains Beheld 2. A Beheld creature carries Cael's mark until it gains a full night's rest or the condition is reduced to 0. When a Beheld creature attempts a d20 roll, Cael can force it to reroll after seeing the result, taking the second result. This reduces Beheld by 1."
+    },
+    {
+      "id": "_forgewornbody01",
+      "name": "Forgeworn Body",
+      "traits": "Occult, Necromancy",
+      "range": "",
+      "actions": "",
+      "type": "defense",
+      "description": "Cael's form has been broken and remade through ancient forces. Cael has resistance 5 to bludgeoning, piercing, and slashing damage from non-magical weapons and does not increase their dying condition to dying 2 until they would normally become dying 3."
+    },
+    {
+      "id": "_forgefireinfusion01",
+      "name": "Forgefire Infusion",
+      "traits": "Evocation, Fire",
+      "range": "",
+      "actions": "one",
+      "type": "offense",
+      "description": "Cael channels the memory of heat and iron through their weapon. The next Strike Cael makes before the end of their turn deals an additional 2d6 fire damage and ignores 5 points of fire resistance."
+    },
+    {
+      "id": "_reloadingstrike01",
+      "name": "Reloading Strike",
+      "traits": "",
+      "range": "",
+      "actions": "two",
+      "type": "offense",
+      "description": "Cael makes a Strike with their rune-etched arquebus and then Reloads. If the Strike hits, it deals an additional 1d6 fire damage."
+    },
+    {
+      "id": "_fallenmanifestation01",
+      "name": "Fallen Manifestation",
+      "traits": "Occult, Necromancy, Aura",
+      "range": "10 feet",
+      "actions": "two",
+      "type": "offense",
+      "description": "Frequency once per day. Cael reveals the truth of their nature. A single black wing unfurls from their back and dim gold-flecked runes appear across their skin. For 1 minute, Cael gains a fly Speed of 30 feet, a +1 status bonus to AC and attack rolls, and their Strikes deal an additional 1d6 negative damage. Creatures that start their turn within the aura must attempt a DC 27 Will save. On a failure, they become frightened 1. On a critical failure, they become frightened 2."
+    },
+    {
+      "id": "_smithoftheworldanvil01",
+      "name": "Smith of the World Anvil",
+      "traits": "Crafting",
+      "range": "",
+      "actions": "",
+      "type": "general",
+      "description": "Cael is an ancient master smith shaped by imprisonment within the World Anvil. Cael can Craft metal items in half the normal time and can use an improvised forge so long as they have access to sufficient heat, fuel, and tools."
+    },
+    {
+      "id": "_duskwalkerresilience01",
+      "name": "Duskwalker Resilience",
+      "traits": "",
+      "range": "",
+      "actions": "",
+      "type": "defense",
+      "description": "Cael gains a +2 status bonus to saves against disease, poison, and death effects."
+    }
+  ],
+  "morespells": [],
+  "alignment": "n",
+  "size": "medium",
+  "type": "humanoid",
+  "adjust": 0,
+  "description": "A lean, ash-marked smith with a stillness that feels slightly removed from the living world. Beneath soot-darkened skin lie faint fracture-like markings, and when Cael reveals their true nature, a single black wing and dim funerary runes mark them as something that has crossed death and returned.",
+  "items": "reinforced blacksmith's hammer, rune-etched arquebus, artisan's tools",
+  "spellattack": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "spelldc": {
+    "value": "27",
+    "benchmark": "high",
+    "note": "Occult manifestation and supernatural gaze"
+  },
+  "savenote": "+2 status bonus against disease, poison, and death effects",
+  "creature": "Ancient smith, fallen angelic being, gunslinger",
+  "speed": "25",
+  "imgurl": "",
+  "spelltype": "",
+  "focuspoints": 0,
+  "cantriplevel": "",
+  "ritualtype": "",
+  "rituals": "",
+  "spells": ["", "", "", "", "", "", "", "", "", "", ""],
+  "constant": "",
+  "minprof": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "strength": {
+    "value": "+4",
+    "benchmark": "high",
+    "note": "Lean, but stronger than they appear"
+  },
+  "dexterity": {
+    "value": "+5",
+    "benchmark": "high",
+    "note": "Controlled, deliberate motion"
+  },
+  "constitution": {
+    "value": "+3",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "intelligence": {
+    "value": "+2",
+    "benchmark": "moderate",
+    "note": "Ancient craft knowledge"
+  },
+  "wisdom": {
+    "value": "+3",
+    "benchmark": "moderate",
+    "note": "Still, distant awareness"
+  },
+  "charisma": {
+    "value": "+1",
+    "benchmark": "low",
+    "note": "Quiet and restrained presence"
+  },
+  "perception": {
+    "value": "+20",
+    "benchmark": "high",
+    "note": ""
+  },
+  "acrobatics": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "arcana": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "athletics": {
+    "value": "+19",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "crafting": {
+    "value": "+24",
+    "benchmark": "extreme",
+    "note": "Master blacksmith"
+  },
+  "deception": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "diplomacy": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "intimidation": {
+    "value": "+17",
+    "benchmark": "moderate",
+    "note": "Quiet, funerary presence"
+  },
+  "medicine": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "nature": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "occultism": {
+    "value": "+18",
+    "benchmark": "high",
+    "note": "Marked by death and ancient supernatural force"
+  },
+  "performance": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "religion": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "society": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "stealth": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "survival": {
+    "value": "+16",
+    "benchmark": "moderate",
+    "note": "Long wandering life"
+  },
+  "thievery": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "lore": {
+    "value": "+20",
+    "benchmark": "high",
+    "note": "",
+    "name": "Blacksmith Lore"
+  },
+  "lorealt": {
+    "value": "+18",
+    "benchmark": "high",
+    "note": "",
+    "name": "World Anvil Lore"
+  },
+  "ac": {
+    "value": 28,
+    "benchmark": "high",
+    "note": ""
+  },
+  "hp": {
+    "value": "185",
+    "benchmark": "high",
+    "note": ""
+  },
+  "fortitude": {
+    "value": "+19",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "reflex": {
+    "value": "+22",
+    "benchmark": "high",
+    "note": ""
+  },
+  "will": {
+    "value": "+20",
+    "benchmark": "high",
+    "note": ""
+  },
+  "resistance": {
+    "value": "negative 10, bludgeoning 5, piercing 5, slashing 5 from non-magical weapons",
+    "benchmark": "high",
+    "note": ""
+  },
+  "weakness": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "immunity": {
+    "value": "death effects",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "roadmap": "",
+  "info": "Cael Varen is an ancient independent blacksmith in Eldermount, a duskwalker tied to the Great War and once imprisoned within the World Anvil by the Warforger.",
+  "strikes": [
+    {
+      "id": "_blacksmithhammer01",
+      "name": "Blacksmith's Hammer",
+      "traits": "magical, versatile p",
+      "attack": "+21",
+      "damage": "2d8+8 bludgeoning",
+      "type": "Melee"
+    },
+    {
+      "id": "_runearquebus01",
+      "name": "Rune-Etched Arquebus",
+      "traits": "fatal d12, range 150 feet",
+      "attack": "+23",
+      "damage": "2d8+6 piercing plus 1d6 persistent fire",
+      "type": "Ranged"
+    }
+  ]
+}

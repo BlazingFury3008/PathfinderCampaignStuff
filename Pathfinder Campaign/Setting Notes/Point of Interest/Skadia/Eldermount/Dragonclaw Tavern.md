@@ -14,7 +14,7 @@ tags:
 # Dragonclaw Tavern
 **Type:** Building  
 **Location:** [[Setting Notes/Locations/Skadia/Eldermount|Eldermount]]  
-**Faction:** Independant  
+**Faction:** Independent  
 **Status:** Active  
 
 ---
@@ -44,6 +44,7 @@ How the place functions today, and who controls or visits it.
 | *Simple Tavern Ale* | 1cp       |
 | *Viper Venom*       | 4cp       |
 | *Room*              | 2sp       |
+| *Private Room*      | 1sp       |
 
 
 ---

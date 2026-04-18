@@ -1,22 +1,21 @@
 ---
-Name: Marra
+Name: Victor
 Type: NPC
-Ancestry: Gnome
+Ancestry: Human
 Class: Alchemist
-Affiliation: Eldermount's Alchemist Guild
+Affiliation: Independant
 Location: Eldermount
-Status: Active
+Status: Unknown
 tags:
   - npc
   - pathfinder2e
 ---
-# Marra
-**Role:** Alchemist, Tied to [[Ash - Elliot]]
-**Affiliation:** [[Eldermount's Alchemist Guild]]  
+# Victor
+**Affiliation:** Independent, tied to [[Ash - Elliot]]
 **Location:** [[Eldermount]]  
-**Ancestry:** Gnome  
-**Class:** Alchemist  
-**Status:** Active  
+**Ancestry:** Human  
+**Class:** Alchemist
+**Status:** Unknown
 
 ---
 ## Appearance

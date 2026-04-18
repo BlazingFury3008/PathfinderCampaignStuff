@@ -114,7 +114,7 @@ tR += `## Planned Encounters\n`;
 tR += `- Any Statblocks planned specifically for the session\n`;
 tR += `## GM Notes:  \n`;
 tR += `Short guidance on pacing, tone, and optional skill checks.  \n`;
-tR += `_Example:_ Encourage exploration and roleplay. Allow downtime before the inciting event.\n\n`;
+tR += `_Example:_ Encourage exploration and roleplay. Allow downtime before the inciting event.\n`;
 tR += `## Session Notes:  \n`;
 tR += `Notes of what happened during the session.  \n`;
 %>

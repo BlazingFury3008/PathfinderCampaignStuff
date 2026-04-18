@@ -56,4 +56,4 @@ Document key background events, ancient origins, or political changes tied to th
 ---
 ## Related Sessions
 - [[1. Welcome to Eldermount]]
-- [[ ]]
+- [[2. The Lower Depths]]

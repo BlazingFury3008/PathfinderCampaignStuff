@@ -17,10 +17,7 @@ tags:
 
 ---
 ## Appearance
-Dr. Gransley presents himself with deliberate precision. His clothing is always immaculate—dark, tailored coats layered over high-collared shirts, gloves rarely removed, even indoors. At a distance, he appears entirely composed, almost refined.
-Up close, the illusion begins to fracture.
-His posture is slightly too rigid, as if held in place rather than relaxed. When he moves, it is smooth but measured, each motion controlled with intent. His skin carries a faint, uneven tone—subtle enough to dismiss in poor lighting, but difficult to ignore once noticed. His eyes linger a fraction too long, unblinking at times, as though observation is something he must consciously stop himself from continuing.
-There are no obvious deformities—only the persistent sense that nothing is quite where it should be.
+When Dr Gransley worked within the [[Eldermount's Alchemist Guild]], He was a well respected figure, A very advanced alchemist who also tinkered with other 
 
 ---
 ## Personality

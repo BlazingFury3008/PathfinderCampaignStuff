@@ -39,7 +39,7 @@ Cael rarely reveals the truth of what they are. When they do, it manifests not a
 ## Background
 Cael is old, older than most mortal records can remember, their existence stretching back hundreds if not thousands of years, back to the time of [[The Great War]]. During this war, they were not a soldier, nor bound to any banner, but instead a prisoner held within [[The World Anvil]] by [[The Warforger]]. Within [[The World Anvil]], Cael was forced to forge weapons to help the Invasion.
 
-Once [[The Great War]] came to an end, Cael found themselves wondering, along their travels they came across [[M.I.D.A - Ruby]], however at this moment they were not sentient, instead they seemed to be deactivated. 
+Once [[The Great War]] came to an end, Cael found themselves wondering, along their travels they came across [[M.I.D.A 12 - Ruby]], however at this moment they were not sentient, instead they seemed to be deactivated. 
 
 ---
 ## Relationships

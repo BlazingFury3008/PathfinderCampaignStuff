@@ -9,19 +9,19 @@ When you throw this bomb, it explodes in a **5-foot burst**. Each creature in th
 **Price** 30 gp  
 **Bulk** L  
 **Honor**: The creature gains 1d4 to attack rolls, saving throws and ability checks, its duration is **1 round**
-**Emnity:** The creature takes a 1d4 penalty to attack rolls, saving throws and ability checks, its duration is **1 round**
-## Moderate (Item 7)
+**Emnity - DC 16:**  The creature takes a 1d4 penalty to attack rolls, saving throws and ability checks, its duration is **1 round**
+## Moderate (Item 6)
 **Price** 80 gp  
 **Bulk** L  
 **Honor**: The creature gains 2d4 to attack rolls, saving throws and ability checks, its duration is **1 minute**
-**Emnity:** The creature takes a 2d4 penalty to attack rolls, saving throws and ability checks, its duration is **1 minute**
-## Greater (Item 14)
+**Emnity - DC 20:** The creature takes a 2d4 penalty to attack rolls, saving throws and ability checks, its duration is **1 minute**
+## Greater (Item 12)
 **Price** 500 gp  
 **Bulk** L  
 **Honor**: The creature gains 2d4 to attack rolls, saving throws and ability checks, its duration is **1 hour**
-**Emnity:** The creature takes a 2d4 penalty to attack rolls, saving throws and ability checks, its duration is **1 hour**
-## Major (Item 20)
+**Emnity - DC 28:** The creature takes a 2d4 penalty to attack rolls, saving throws and ability checks, its duration is **1 hour**
+## Major (Item 18)
 **Price** 5,000 gp  
 **Bulk** L  
 **Honor**: The creature gains 2d8 to attack rolls, saving throws and ability checks, its duration is **1 hour**
-**Emnity:** The creature takes a 2d8 penalty to attack rolls, saving throws and ability checks, its duration is **1 hour**
+**Emnity - DC 34:** The creature takes a 2d8 penalty to attack rolls, saving throws and ability checks, its duration is **1 hour**

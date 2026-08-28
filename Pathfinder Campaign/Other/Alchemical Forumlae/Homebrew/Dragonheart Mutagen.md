@@ -1,7 +1,7 @@
 **Source**: Homebrew  
 Your skin grows scales like a dragon, you gain the ability to breathe fire however your mind becomes sluggish and you lose the ability to effectively communicate
   
-**Benefit** You gain the listen Bonus to AC, a Dexterity cap of +2 (as usual, use your lowest Dexterity cap if you have more than one), and an item bonus to Perception checks. If you're wearing armor, you still calculate your proficiency bonus to AC based on your proficiency in the armor you're wearing, even if the Dragonheart mutagen has a higher item bonus. You gain the Breath Weapon action with an element decided when the mutagen is activated (Fire, Cold, Acid, Void), 
+**Benefit** You gain the listed Bonus to AC, a Dexterity cap of +2 (as usual, use your lowest Dexterity cap if you have more than one), and an item bonus to Perception checks. If you're wearing armor, you still calculate your proficiency bonus to AC based on your proficiency in the armor you're wearing, even if the Dragonheart mutagen has a higher item bonus. You gain the Breath Weapon action with an element decided when the mutagen is activated (Fire, Cold, Acid, Void), 
 
 **Breath Weapon: 2A**: You exhale destructive energy in a 45-foot cone. Each creature in the area attempts a Reflex save against the mutagen's listed DC. The creature takes the mutagen's listed damage of the damage type chosen when the mutagen was activated. On a successful save, it takes half damage; on a critical success, it takes no damage; on a critical failure, it takes double damage. If you chose **Void** as the damage type, you take damage equal to half the damage rolled.
 
